@@ -1,0 +1,28 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Rohit Mullangi",
+  "devDesc": "| Engineer | Programmer | Web Developer | Backpacker |",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/rohitm94",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/rohit-reddy-mullangi-53933382/",
+      "style": "socialicons"
+    }
+  ],
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "trojan_traveller_rohit",
+  "instaQuerry": "/?__a=1",
+  "aboutDev": "C++ Javascript React Vue Python",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "rohitm94",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc"
+}
